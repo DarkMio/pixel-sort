@@ -60,5 +60,6 @@ html, body {
 #canvas {
     display: flex;
     border: 16px solid #fff;
+    width: 100%;
     margin: 0 auto;
 }
